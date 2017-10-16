@@ -2,16 +2,16 @@
 JDOWNLOADER2 MYSCRIPTS 使えそうなやつ
 
 # jdownloader2 link
-Official
+Official<br>
 http://jdownloader.org/home/index
 
-Forum
+Forum<br>
 https://board.jdownloader.org/forumdisplay.php?f=50
 
-Event Script
+Event Script<br>
 https://board.jdownloader.org/showthread.php?t=70525
 
-Unofficial Japanese Wiki
+Unofficial Japanese Wiki<br>
 https://www1.atwiki.jp/jdownloader/
 
 # Usage
