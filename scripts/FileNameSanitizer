@@ -1,0 +1,20 @@
+// File Name Snitizer
+// Event Trriger : Packager Hook
+
+// 正規表現に変更したい
+function convertFileName($value) {
+    $value = $value.split("\\").join("￥");
+    $value = $value.split("/").join("／");
+    $value = $value.split(":").join("：");
+    $value = $value.split("*").join("＊");
+    $value = $value.split("?").join("？");
+    $value = $value.split("\"").join("”");
+    $value = $value.split("<").join("＜");
+    $value = $value.split(">").join("＞");
+    $value = $value.split("|").join("｜");
+    return $value;
+}
+
+$val = convertFileName(link.name);
+link.setName($val);
+//alert($val);
