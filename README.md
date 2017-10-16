@@ -11,6 +11,9 @@ https://board.jdownloader.org/forumdisplay.php?f=50
 Event Script
 https://board.jdownloader.org/showthread.php?t=70525
 
+Unofficial Japanese Wiki
+https://www1.atwiki.jp/jdownloader/
+
 # Usage
 1. Setting -> Install Event Script
 2. Setting -> Event Script -> Add Script
