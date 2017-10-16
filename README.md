@@ -17,3 +17,6 @@ https://board.jdownloader.org/showthread.php?t=70525
 3. Change Like Script Name
 4. Change Like Trigget
 5. Edit Like Script
+
+# Script Language
+JavaScript
